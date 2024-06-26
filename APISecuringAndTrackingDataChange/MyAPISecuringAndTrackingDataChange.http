@@ -1,0 +1,6 @@
+@MyAPISecuringAndTrackingDataChange_HostAddress = http://localhost:5267
+
+GET {{MyAPISecuringAndTrackingDataChange_HostAddress}}/employees/
+Accept: application/json
+
+###
